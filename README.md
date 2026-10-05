@@ -15,7 +15,7 @@ además se pidió la magnitud infrarroja contenida en los archivos de WISE.
 
 Una vez limpios los datos, descartando objetos cercanos o con paralajes dudosos por su
 señal-ruido, se elaboraron los diagramas color magnitud correspondientes. Para los objetos
-distanttes (cuásares y galaxias) se puede observar que las galaxias se ubican en el universo
+distantes (cuásares y galaxias) se puede observar que las galaxias se ubican en el universo
 local mientras que los cuásares están más en el universo temprano.
 
 Ahora bien, las estrellas se descartaron aquellas que estaban muy cercanas a la Tierra, ya
