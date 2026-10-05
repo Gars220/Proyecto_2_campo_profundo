@@ -2,7 +2,7 @@
 
 Desarrollado por:
 - José Nicolás Rodríguez Montoya
-- Gabriel Rodríguez SUárez
+- Gabriel Rodríguez Suárez
 
 En este proyecto se presenta el análisis del campo profundo del cielo en las
 región de (135.5° RA, 0.5° DEC), donde se analizaron las estrellas, galaxias
